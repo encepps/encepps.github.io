@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-12T18:18:23+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-12T19:32:02+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
 </subtitle><entry><title type="html">게임 세계관 및 메카니즘 설계</title><link href="https://encepps.github.io//log/2016/11/12/scafold-world" rel="alternate" type="text/html" title="게임 세계관 및 메카니즘 설계" /><published>2016-11-12T17:11:28+09:00</published><updated>2016-11-12T17:11:28+09:00</updated><id>https://encepps.github.io//log/2016/11/12/scafoold-world</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/12/scafold-world">&lt;h1 id=&quot;section&quot;&gt;게임 세계관 및 메카니즘 설계&lt;/h1&gt;
 &lt;p&gt;기존의 건강 관리 어플리케이션이 아닌 질병 관리 어플리케이션을 게임화를 통해 사람들의 행동 양식의 변화를 알아보고자 하는 것이기 때문에 게임과 같은 세계관을 만들 수는 없으나, 사용자의 질병 관리 어플리케이션의 사용 시나리오는 만들 수 있다.&lt;/p&gt;
 
@@ -19,7 +19,7 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;section-3&quot;&gt;2. 게임 메카니즘&lt;/h1&gt;
-&lt;p&gt;본 어플리케이션은 &lt;code class=&quot;highlighter-rouge&quot;&gt;아바타&lt;/code&gt;를 관리하는 게임이다. 기본 게임의 장르는 육성 시뮬레이션 혹은 캐릭터 매니지먼트이다. 추가적인 요소로 사회인지[^1]이론을 적용하기 위한 소셜 네트워크 기능이 있다.&lt;/p&gt;
+&lt;p&gt;본 어플리케이션은 &lt;code class=&quot;highlighter-rouge&quot;&gt;아바타&lt;/code&gt;를 관리하는 게임이다. 기본 게임의 장르는 육성 시뮬레이션 혹은 캐릭터 매니지먼트이다. 추가적인 요소로 사회인지&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;이론을 적용하기 위한 소셜 네트워크 기능이 있다.&lt;/p&gt;
 
 &lt;h2 id=&quot;section-4&quot;&gt;2.1 게임 규칙&lt;/h2&gt;
 
@@ -151,8 +151,13 @@
 
 &lt;p&gt;아바타 육성 시스템 중 아바타 상태를 확인 할 수 있는 화면.&lt;/p&gt;
 
-&lt;p&gt;주석
-[^1]: Bandura에 의해 제안된 이론으로, 사회적 상황에서의 학습은 환경, 개인 변인과 행동 간의 삼원적 상호 작용에 의해 이루어진다는 것이다. 학습에서 중요한 것은 사회적 상황에서 발생하는 모델링과 조금만 노력하면 성공할 수 있다는 학습자의 신념, 즉 지각된 자기 효능감이다. [네이버 지식백과] 사회 인지 이론 [social cognitive theory] (실험심리학용어사전, 2008., 시그마프레스㈜)&lt;/p&gt;</content><category term="대학원" /><category term="경희대" /><category term="과제" /><summary type="html">게임 세계관 및 메카니즘 설계
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Bandura에 의해 제안된 이론으로, 사회적 상황에서의 학습은 환경, 개인 변인과 행동 간의 삼원적 상호 작용에 의해 이루어진다는 것이다. 학습에서 중요한 것은 사회적 상황에서 발생하는 모델링과 조금만 노력하면 성공할 수 있다는 학습자의 신념, 즉 지각된 자기 효능감이다. [네이버 지식백과] 사회 인지 이론 [social cognitive theory] (실험심리학용어사전, 2008., 시그마프레스㈜) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="대학원" /><category term="경희대" /><category term="과제" /><summary type="html">게임 세계관 및 메카니즘 설계
 기존의 건강 관리 어플리케이션이 아닌 질병 관리 어플리케이션을 게임화를 통해 사람들의 행동 양식의 변화를 알아보고자 하는 것이기 때문에 게임과 같은 세계관을 만들 수는 없으나, 사용자의 질병 관리 어플리케이션의 사용 시나리오는 만들 수 있다.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://findicons.com/files/icons/1700/2d/512/globe_white.png" /></entry><entry><title type="html">대학원 문서 테스트</title><link href="https://encepps.github.io//log/collage/2016/11/12/collage" rel="alternate" type="text/html" title="대학원 문서 테스트" /><published>2016-11-12T13:47:46+09:00</published><updated>2016-11-12T13:47:46+09:00</updated><id>https://encepps.github.io//log/collage/2016/11/12/collage</id><content type="html" xml:base="https://encepps.github.io//log/collage/2016/11/12/collage">&lt;h1 id=&quot;section&quot;&gt;기록을 해야합니다.&lt;/h1&gt;
 
 &lt;p&gt;대학교에서 배운 강의 내용을 요약하여 정리 기록할 것입니다.&lt;/p&gt;
@@ -204,4 +209,4 @@
       &lt;li&gt;ㅁㅇ럼날&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">안녕하세요</summary></entry></feed>
+&lt;/ul&gt;</content><category term="helloWorld" /><category term="시작" /><category term="chani" /><summary type="html">안녕하세요</summary></entry></feed>

@@ -25,11 +25,31 @@
 	<link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<!-- include external plugins. -->
-	
+	<!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <!-- highlightjs -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/dracula.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script> 
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- icons -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<!-- heading anchor -->
+<script>
+$(function() {
+  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script> 
 </head>
 <body>
 
@@ -77,14 +97,22 @@
 			<h2></h2>	
 			<div class="post-info">
 				<p>Post : Nov 8, 2016</p>
-				<p>Tags : </p>	
+				<p>Tags : <a href="/logs/tags#helloWorld" class="tag">helloWorld</a><a href="/logs/tags#시작" class="tag">시작</a><a href="/logs/tags#chani" class="tag">chani</a></p>	
 			</div>
 			
 		</div>
 		
 		<div class="post-content">
-			<div class="toc">
-				<h1 id="section">안녕하세요</h1>
+			
+				<div class="toc">
+					<p>Table of Content</p>
+					<ul class="section-nav">
+<li class="toc-entry toc-h1"><a href="#안녕하세요">안녕하세요</a></li>
+</ul>
+				</div>
+			
+			<h1 id="section">
+<a id="안녕하세요" class="anchor" href="#%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94" aria-hidden="true"><span class="octicon octicon-link"></span></a>안녕하세요</h1>
 
 <p>반갑습니다!</p>
 
@@ -92,31 +120,8 @@
   <li>이것은 리스트 입니다.</li>
 </ul>
 
-<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
-<span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Test</span><span class="p">();</span>
-</code></pre>
-</div>
-
-<ul>
-  <li>리스트</li>
-  <li>리스트2
-    <ul>
-      <li>ㅁㅇ럼날</li>
-    </ul>
-  </li>
-</ul>
-
-
-			</div>
-			<h1 id="section">안녕하세요</h1>
-
-<p>반갑습니다!</p>
-
-<ul>
-  <li>이것은 리스트 입니다.</li>
-</ul>
-
-<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
+<div class="language-javascript highlighter-rouge">
+<pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
 <span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Test</span><span class="p">();</span>
 </code></pre>
 </div>

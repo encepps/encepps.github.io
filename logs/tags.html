@@ -22,11 +22,31 @@
 	<link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<!-- include external plugins. -->
-	
+	<!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <!-- highlightjs -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/dracula.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script> 
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- icons -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<!-- heading anchor -->
+<script>
+$(function() {
+  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script> 
 </head>
 <body>
 
@@ -95,6 +115,8 @@
         <a href="#과제"> 과제 </a>
     
         <a href="#대학원"> 대학원 </a>
+    
+        <a href="#시작"> 시작 </a>
         
 </div>
 
@@ -125,6 +147,22 @@
              
          
              
+             <li>
+             <h3>
+             <a href="/2016/11/08/helloworld.html">
+             인사말
+             <small>08 Nov 2016</small>
+             </a>
+             
+                 <a class="tag" href="/blog/tag/#helloworld">helloWorld</a>
+             
+                 <a class="tag" href="/blog/tag/#시작">시작</a>
+             
+                 <a class="tag" href="/blog/tag/#chani">chani</a>
+             
+             </h3>
+             </li>
+             
          
         </ul>
     
@@ -151,6 +189,22 @@
              </li>
              
          
+             
+             <li>
+             <h3>
+             <a href="/2016/11/08/helloworld.html">
+             인사말
+             <small>08 Nov 2016</small>
+             </a>
+             
+                 <a class="tag" href="/blog/tag/#helloworld">helloWorld</a>
+             
+                 <a class="tag" href="/blog/tag/#시작">시작</a>
+             
+                 <a class="tag" href="/blog/tag/#chani">chani</a>
+             
+             </h3>
+             </li>
              
          
         </ul>
@@ -299,6 +353,35 @@
          
              
          
+             
+         
+        </ul>
+    
+        <h2 id="시작">시작</h2>
+        <ul>
+         
+             
+         
+             
+         
+             
+         
+             
+             <li>
+             <h3>
+             <a href="/2016/11/08/helloworld.html">
+             인사말
+             <small>08 Nov 2016</small>
+             </a>
+             
+                 <a class="tag" href="/blog/tag/#helloworld">helloWorld</a>
+             
+                 <a class="tag" href="/blog/tag/#시작">시작</a>
+             
+                 <a class="tag" href="/blog/tag/#chani">chani</a>
+             
+             </h3>
+             </li>
              
          
         </ul>

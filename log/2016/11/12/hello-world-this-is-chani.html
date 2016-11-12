@@ -27,11 +27,31 @@
 	<link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<!-- include external plugins. -->
-	
+	<!-- jQuery -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <!-- highlightjs -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/dracula.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script> 
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- icons -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<!-- heading anchor -->
+<script>
+$(function() {
+  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script> 
 </head>
 <body>
 
@@ -87,35 +107,31 @@
 		</div>
 		
 		<div class="post-content">
-			<div class="toc">
-				<h1 id="section">반갑구나 세상아!</h1>
+			
+				<div class="toc">
+					<p>Table of Content</p>
+					<ul class="section-nav">
+<li class="toc-entry toc-h1"><a href="#반갑구나-세상아">반갑구나 세상아!</a></li>
+<li class="toc-entry toc-h2"><a href="#더-만들어야-하지만">더 만들어야 하지만….</a></li>
+<li class="toc-entry toc-h2"><a href="#코드-테스트를-해볼까요">코드 테스트를 해볼까요?</a></li>
+</ul>
+				</div>
+			
+			<h1 id="section">
+<a id="반갑구나-세상아" class="anchor" href="#%EB%B0%98%EA%B0%91%EA%B5%AC%EB%82%98-%EC%84%B8%EC%83%81%EC%95%84" aria-hidden="true"><span class="octicon octicon-link"></span></a>반갑구나 세상아!</h1>
 
 <p>찬이가 이제 세상에 나오게 됬어!! ㅎㅎ</p>
 
-<h2 id="section-1">더 만들어야 하지만….</h2>
+<h2 id="section-1">
+<a id="더-만들어야-하지만" class="anchor" href="#%EB%8D%94-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC-%ED%95%98%EC%A7%80%EB%A7%8C" aria-hidden="true"><span class="octicon octicon-link"></span></a>더 만들어야 하지만….</h2>
 
 <p>아직은 만들어야 할 것도 많고 해야 할것도 많지만 이게 첫 걸음이 되었으면 좋겠다!</p>
 
-<h2 id="section-2">코드 테스트를 해볼까요?</h2>
+<h2 id="section-2">
+<a id="코드-테스트를-해볼까요" class="anchor" href="#%EC%BD%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94" aria-hidden="true"><span class="octicon octicon-link"></span></a>코드 테스트를 해볼까요?</h2>
 
-<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
-<span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Test</span><span class="p">();</span>
-</code></pre>
-</div>
-<p>코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ</p>
-
-			</div>
-			<h1 id="section">반갑구나 세상아!</h1>
-
-<p>찬이가 이제 세상에 나오게 됬어!! ㅎㅎ</p>
-
-<h2 id="section-1">더 만들어야 하지만….</h2>
-
-<p>아직은 만들어야 할 것도 많고 해야 할것도 많지만 이게 첫 걸음이 되었으면 좋겠다!</p>
-
-<h2 id="section-2">코드 테스트를 해볼까요?</h2>
-
-<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
+<div class="language-javascript highlighter-rouge">
+<pre class="highlight"><code><span class="c1">// 이것은 자바스트립트 입니다.</span>
 <span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Test</span><span class="p">();</span>
 </code></pre>
 </div>
