@@ -7,8 +7,8 @@
 <meta property="og:title" content="인사말" />
 <meta name="description" content="안녕하세요" />
 <meta property="og:description" content="안녕하세요" />
-<link rel="canonical" href="https://encepps.github.io//2016/11/08/helloworld.html" />
-<meta property="og:url" content="https://encepps.github.io//2016/11/08/helloworld.html" />
+<link rel="canonical" href="https://encepps.github.io//helloworld/2016/11/08/helloworld.html" />
+<meta property="og:url" content="https://encepps.github.io//helloworld/2016/11/08/helloworld.html" />
 <meta property="og:site_name" content="Chani" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2016-11-08T18:36:24+09:00" />
@@ -18,7 +18,7 @@
 "headline": "인사말",
 "datePublished": "2016-11-08T18:36:24+09:00",
 "description": "안녕하세요",
-"url": "https://encepps.github.io//2016/11/08/helloworld.html"}</script>
+"url": "https://encepps.github.io//helloworld/2016/11/08/helloworld.html"}</script>
 <!-- End Jekyll SEO tag -->
 
 	<meta itemprop="image" content="">
@@ -34,22 +34,7 @@
 <script>hljs.initHighlightingOnLoad();</script>
 
 <!-- icons -->
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-
-<!-- heading anchor -->
-<script>
-$(function() {
-  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
-    var $el, icon, id;
-    $el = $(el);
-    id = $el.attr('id');
-    icon = '<i class="fa fa-link"></i>';
-    if (id) {
-      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
-    }
-  });
-});
-</script> 
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> 
 </head>
 <body>
 
@@ -143,6 +128,20 @@ $(function() {
 
 </div>
 
+<!-- heading anchor -->
+<script>
+	$(function() {
+	  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+	    var $el, icon, id;
+	    $el = $(el);
+	    id = $el.attr('id');
+	    icon = '<i class="fa fa-link"></i>';
+	    if (id) {
+	      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+	    }
+	  });
+	});
+</script>
 	</div>
 	<footer>
 	<ul>

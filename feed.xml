@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-12T19:32:02+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-12T20:01:31+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
 </subtitle><entry><title type="html">게임 세계관 및 메카니즘 설계</title><link href="https://encepps.github.io//log/2016/11/12/scafold-world" rel="alternate" type="text/html" title="게임 세계관 및 메카니즘 설계" /><published>2016-11-12T17:11:28+09:00</published><updated>2016-11-12T17:11:28+09:00</updated><id>https://encepps.github.io//log/2016/11/12/scafoold-world</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/12/scafold-world">&lt;h1 id=&quot;section&quot;&gt;게임 세계관 및 메카니즘 설계&lt;/h1&gt;
 &lt;p&gt;기존의 건강 관리 어플리케이션이 아닌 질병 관리 어플리케이션을 게임화를 통해 사람들의 행동 양식의 변화를 알아보고자 하는 것이기 때문에 게임과 같은 세계관을 만들 수는 없으나, 사용자의 질병 관리 어플리케이션의 사용 시나리오는 만들 수 있다.&lt;/p&gt;
 
@@ -169,13 +169,70 @@
 &lt;h2 id=&quot;section-2&quot;&gt;대학원에서 사용할 코드 테스트를 해볼까요?&lt;/h2&gt;
 
 &lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TestClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MonoBehaviour&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// something when start this component.
-&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    	&lt;span class=&quot;c1&quot;&gt;// something when start this component.
+&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ&lt;/p&gt;</content><category term="대학원" /><category term="경희대" /><category term="경희대 대학원" /><summary type="html">기록을 해야합니다.</summary></entry><entry><title type="html">안녕 세상아</title><link href="https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani" rel="alternate" type="text/html" title="안녕 세상아" /><published>2016-11-12T13:47:46+09:00</published><updated>2016-11-12T13:47:46+09:00</updated><id>https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani">&lt;h1 id=&quot;section&quot;&gt;반갑구나 세상아!&lt;/h1&gt;
+&lt;p&gt;코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ&lt;/p&gt;
+
+&lt;h3 id=&quot;codes&quot;&gt;codes&lt;/h3&gt;
+
+&lt;p&gt;Code를 위한 페이지 입니다. 그리고 TOC의 꾸밈이 필요합니다.&lt;/p&gt;
+
+&lt;p&gt;꾸며야 합니다!&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;list&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SomeQuery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Where&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;contains&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;google&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;FirstOrDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// This is comments.
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;testing&quot;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;이제 그만 테스트를 하고 일을 해봅시다. 이제 일을 해야 할 때입니다.&lt;/p&gt;
+
+&lt;p&gt;하지만 테스트를 더 해야 합니다 왜냐하면 아직 글이 충분히 길지 않기 때문입니다.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Testing!&lt;/th&gt;
+      &lt;th&gt;Interesting&lt;/th&gt;
+      &lt;th&gt;Good for me&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;inter&lt;/td&gt;
+      &lt;td&gt;goo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;est&lt;/td&gt;
+      &lt;td&gt;d for&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;ing&lt;/td&gt;
+      &lt;td&gt;me&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;test1&quot;&gt;test1&lt;/h3&gt;
+
+&lt;p&gt;test&lt;/p&gt;
+
+&lt;h3 id=&quot;test2&quot;&gt;test2&lt;/h3&gt;
+
+&lt;p&gt;test2&lt;/p&gt;
+
+&lt;h4 id=&quot;test2-1&quot;&gt;test2-1&lt;/h4&gt;
+
+&lt;p&gt;test2-1&lt;/p&gt;</content><category term="대학원" /><category term="경희대" /><category term="경희대 대학원" /><summary type="html">기록을 해야합니다.</summary></entry><entry><title type="html">안녕 세상아</title><link href="https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani" rel="alternate" type="text/html" title="안녕 세상아" /><published>2016-11-12T13:47:46+09:00</published><updated>2016-11-12T13:47:46+09:00</updated><id>https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/12/hello-world-this-is-chani">&lt;h1 id=&quot;section&quot;&gt;반갑구나 세상아!&lt;/h1&gt;
 
 &lt;p&gt;찬이가 이제 세상에 나오게 됬어!! ㅎㅎ&lt;/p&gt;
 
@@ -189,7 +246,7 @@
 &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ&lt;/p&gt;</content><category term="chani" /><category term="helloWorld" /><summary type="html">반갑구나 세상아!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://d30y9cdsu7xlg0.cloudfront.net/png/194013-200.png" /></entry><entry><title type="html">인사말</title><link href="https://encepps.github.io//2016/11/08/helloworld.html" rel="alternate" type="text/html" title="인사말" /><published>2016-11-08T18:36:24+09:00</published><updated>2016-11-08T18:36:24+09:00</updated><id>https://encepps.github.io//2016/11/08/helloworld</id><content type="html" xml:base="https://encepps.github.io//2016/11/08/helloworld.html">&lt;h1 id=&quot;section&quot;&gt;안녕하세요&lt;/h1&gt;
+&lt;p&gt;코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ&lt;/p&gt;</content><category term="chani" /><category term="helloWorld" /><summary type="html">반갑구나 세상아!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://d30y9cdsu7xlg0.cloudfront.net/png/194013-200.png" /></entry><entry><title type="html">인사말</title><link href="https://encepps.github.io//helloworld/2016/11/08/helloworld.html" rel="alternate" type="text/html" title="인사말" /><published>2016-11-08T18:36:24+09:00</published><updated>2016-11-08T18:36:24+09:00</updated><id>https://encepps.github.io//helloworld/2016/11/08/helloworld</id><content type="html" xml:base="https://encepps.github.io//helloworld/2016/11/08/helloworld.html">&lt;h1 id=&quot;section&quot;&gt;안녕하세요&lt;/h1&gt;
 
 &lt;p&gt;반갑습니다!&lt;/p&gt;
 

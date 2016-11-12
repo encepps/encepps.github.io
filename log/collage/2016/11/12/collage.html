@@ -34,22 +34,7 @@
 <script>hljs.initHighlightingOnLoad();</script>
 
 <!-- icons -->
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-
-<!-- heading anchor -->
-<script>
-$(function() {
-  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
-    var $el, icon, id;
-    $el = $(el);
-    id = $el.attr('id');
-    icon = '<i class="fa fa-link"></i>';
-    if (id) {
-      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
-    }
-  });
-});
-</script> 
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> 
 </head>
 <body>
 
@@ -110,6 +95,11 @@ $(function() {
 <li class="toc-entry toc-h1"><a href="#기록을-해야합니다">기록을 해야합니다.</a></li>
 <li class="toc-entry toc-h2"><a href="#대학원에서-배운-내용을-스펀지-처럼-빨아들여야-합니다">대학원에서 배운 내용을 스펀지 처럼 빨아들여야 합니다.</a></li>
 <li class="toc-entry toc-h2"><a href="#대학원에서-사용할-코드-테스트를-해볼까요">대학원에서 사용할 코드 테스트를 해볼까요?</a></li>
+<li class="toc-entry toc-h3"><a href="#codes">codes</a></li>
+<li class="toc-entry toc-h2"><a href="#testing">Testing</a></li>
+<li class="toc-entry toc-h3"><a href="#test1">test1</a></li>
+<li class="toc-entry toc-h3"><a href="#test2">test2</a></li>
+<li class="toc-entry toc-h4"><a href="#test2-1">test2-1</a></li>
 </ul>
 				</div>
 			
@@ -128,13 +118,76 @@ $(function() {
 
 <div class="language-c# highlighter-rouge">
 <pre class="highlight"><code><span class="k">public</span> <span class="k">class</span> <span class="nc">TestClass</span><span class="p">:</span> <span class="n">MonoBehaviour</span><span class="p">{</span>
-  <span class="k">void</span> <span class="nf">Start</span><span class="p">(){</span>
-    <span class="c1">// something when start this component.
-</span>  <span class="p">}</span>
+	<span class="k">void</span> <span class="nf">Start</span><span class="p">(){</span>
+    	<span class="c1">// something when start this component.
+</span> 	<span class="p">}</span>
 <span class="p">}</span>
 </code></pre>
 </div>
 <p>코드 테스트는 저에게는 중요한 일입니다. 왜냐.. 저는 코딩하는 디자이너니까요…ㅠ</p>
+
+<h3 id="codes">
+<a id="codes" class="anchor" href="#codes" aria-hidden="true"><span class="octicon octicon-link"></span></a>codes</h3>
+
+<p>Code를 위한 페이지 입니다. 그리고 TOC의 꾸밈이 필요합니다.</p>
+
+<p>꾸며야 합니다!</p>
+
+<div class="language-c# highlighter-rouge">
+<pre class="highlight"><code><span class="kt">var</span> <span class="n">list</span> <span class="p">=</span> <span class="n">SomeQuery</span><span class="p">.</span><span class="nf">Where</span><span class="p">(</span><span class="n">_</span> <span class="p">=&gt;</span> <span class="n">_</span><span class="p">.</span><span class="n">names</span><span class="p">.</span><span class="nf">contains</span><span class="p">(</span><span class="s">"google"</span><span class="p">)).</span><span class="nf">FirstOrDefault</span><span class="p">();</span>
+
+<span class="c1">// This is comments.
+</span></code></pre>
+</div>
+
+<h2 id="testing">
+<a id="testing" class="anchor" href="#testing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Testing</h2>
+
+<p>이제 그만 테스트를 하고 일을 해봅시다. 이제 일을 해야 할 때입니다.</p>
+
+<p>하지만 테스트를 더 해야 합니다 왜냐하면 아직 글이 충분히 길지 않기 때문입니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Testing!</th>
+      <th>Interesting</th>
+      <th>Good for me</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>inter</td>
+      <td>goo</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>est</td>
+      <td>d for</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>ing</td>
+      <td>me</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="test1">
+<a id="test1" class="anchor" href="#test1" aria-hidden="true"><span class="octicon octicon-link"></span></a>test1</h3>
+
+<p>test</p>
+
+<h3 id="test2">
+<a id="test2" class="anchor" href="#test2" aria-hidden="true"><span class="octicon octicon-link"></span></a>test2</h3>
+
+<p>test2</p>
+
+<h4 id="test2-1">
+<a id="test2-1" class="anchor" href="#test2-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>test2-1</h4>
+
+<p>test2-1</p>
 
 		</div>
 		
@@ -167,6 +220,20 @@ $(function() {
 
 </div>
 
+<!-- heading anchor -->
+<script>
+	$(function() {
+	  return $("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+	    var $el, icon, id;
+	    $el = $(el);
+	    id = $el.attr('id');
+	    icon = '<i class="fa fa-link"></i>';
+	    if (id) {
+	      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+	    }
+	  });
+	});
+</script>
 	</div>
 	<footer>
 	<ul>
