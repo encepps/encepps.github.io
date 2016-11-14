@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2016-11-14T03:00:47+09:00</updated><id>http://localhost:4000///</id><title type="html">Chani</title><subtitle>This is chani page.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2016-11-14T09:06:01+09:00</updated><id>http://localhost:4000///</id><title type="html">Chani</title><subtitle>This is chani page.
 </subtitle><entry><title type="html">“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.</title><link href="http://localhost:4000//log/2016/11/13/health-game-design" rel="alternate" type="text/html" title="&quot;불이익을 통한 게임 몰입 증대 효과를 연구&quot;를 위한 게임 디자인." /><published>2016-11-14T02:15:23+09:00</published><updated>2016-11-14T02:15:23+09:00</updated><id>http://localhost:4000//log/2016/11/13/health-game-design</id><content type="html" xml:base="http://localhost:4000//log/2016/11/13/health-game-design">&lt;h1 id=&quot;section&quot;&gt;“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.&lt;/h1&gt;
 
 &lt;h1 id=&quot;section-1&quot;&gt;1. 환자 설정&lt;/h1&gt;
@@ -210,6 +210,10 @@
 
 &lt;p&gt;test.&lt;/p&gt;</content><category term="test" /><category term="테스트" /><summary type="html">test</summary></entry><entry><title type="html">만성 질병인을 위한 행동개선을 위한 게임에서 불이익이 게임 플레이어에게 미치는 영향</title><link href="http://localhost:4000//log/2016/11/12/scafold-world" rel="alternate" type="text/html" title="만성 질병인을 위한 행동개선을 위한 게임에서 불이익이 게임 플레이어에게 미치는 영향" /><published>2016-11-12T17:11:28+09:00</published><updated>2016-11-12T17:11:28+09:00</updated><id>http://localhost:4000//log/2016/11/12/scafoold-world</id><content type="html" xml:base="http://localhost:4000//log/2016/11/12/scafold-world">&lt;h1 id=&quot;section&quot;&gt;만성 질병인을 위한 행동개선을 위한 게임에서 불이익이 게임 플레이어에게 미치는 영향&lt;/h1&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;@TODO - this document is draft. So, Keep in mind&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;h2 id=&quot;section-1&quot;&gt;연구의 배경&lt;/h2&gt;
 
 &lt;p&gt;게임 연구에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;보상&lt;/code&gt;에 대한 연구는 매우 중요하게 연구되어 왔다. 적절한 &lt;code class=&quot;highlighter-rouge&quot;&gt;보상&lt;/code&gt;은 보통의 게임에서 플레이어가 지속적으로 &lt;code class=&quot;highlighter-rouge&quot;&gt;몰입&lt;/code&gt;하게 하는 요소 중 하나이다. 하지만 가상의 게임이 아닌 &lt;code class=&quot;highlighter-rouge&quot;&gt;행동개선&lt;/code&gt;을 위한 &lt;code class=&quot;highlighter-rouge&quot;&gt;기능성 게임&lt;/code&gt;에서 단순히 &lt;code class=&quot;highlighter-rouge&quot;&gt;보상&lt;/code&gt;만으로는 한계가 있다고 생각한다.&lt;/p&gt;
@@ -226,10 +230,6 @@
 
 &lt;h2 id=&quot;section-3&quot;&gt;연구 문제&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;@TODO - this is draft&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
 &lt;ul&gt;
   &lt;li&gt;행동개선 기능성 게임에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;불이익&lt;/code&gt;이 긍정적 요인으로 작용하는가?&lt;/li&gt;
   &lt;li&gt;행동개선 기능성 게임에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;불이익&lt;/code&gt;이 긍정적 요인으로 작용하게 하는 디자인은 무엇인가?&lt;/li&gt;
@@ -237,20 +237,23 @@
 
 &lt;h2 id=&quot;section-4&quot;&gt;방법 및 절자&lt;/h2&gt;
 
-&lt;p&gt;질병의 개선을 위해서는 생활에서 환자의 행동개선이 필요한 질병을 선정한다.&lt;/p&gt;
-
-&lt;p&gt;그 후 해당 질병에 대한 피 실험인의 행동개선의 정도를 판단할 수 있는 지표를 선정한다.&lt;/p&gt;
+&lt;p&gt;질병의 치료나 관리를 위해 환자의 생활에서 행동의 개선이 필요한 경우의 질병을 선정한다.&lt;/p&gt;
 
 &lt;p&gt;피 실험인의 조건을 선정한다. 모바일 게임을 할 수 있으며(질병으로 인한 불가능 혹은 IT기기에 대한 부적응자 제외, 등) 모바일 게임에 충분히 좋은 즐거움을 느끼는 사람으로 선정해야 하며, 평소 질병을 위한 행동개선 혹은 버릇, 등을 고치고하자 하는 의지가 있는 사람을 선전한다. 또한 질병의 정도가 비슷해야 한다.&lt;/p&gt;
+
+&lt;p&gt;그 후 해당 질병에 대한 피 실험인의 행동개선의 정도를 판단할 수 있는 지표를 선정한다.&lt;/p&gt;
 
 &lt;p&gt;위 기준에 부합하는 해당하는 피 실험군을 선정하여 두개의 그룹으로 나눈다.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;하나의 그룹은 환자의 적절하지 못한 행동을 할 경우 적절한 불이익을 준다.&lt;/li&gt;
   &lt;li&gt;다른 하나의 그룹은 환자가 적절하지 못한 행동을 할 경우에도 환자가 하는 게임에 불이익을 주지 않는다.&lt;/li&gt;
+  &lt;li&gt;(&lt;strong&gt;두 그룹의 게임 모두 환자가 행동 개선에 해당하는 행위를 할 경우 적절한 보상이 주어진다.&lt;/strong&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;두 그룹의 게임 모두 환자가 행동 개선에 해당하는 행위를 할 경우 적절한 보상이 주어진다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1달에서 2달가량 게임을 플레이 하도록 하여 행동개선이 이루어 졌는지 판단한다.&lt;/p&gt;
+
+&lt;p&gt;만약 행동 개선이 이루어 졌다면, 어떤 이유로 행동개선이 이루어 졌는지 정확히 찾는다.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;!중요 : 불이익은 게임의 난이도나 도전의 정도의 상향이 아니라 말 그대로 &lt;code class=&quot;highlighter-rouge&quot;&gt;불이익&lt;/code&gt;이 되어야 한다. 가령 플레이어 캐릭터의 죽음이나 게임 머니의 수거 등이 불이익에 해당할 수 있다. 불이익으로 인해 게임의 난이도가 어려워질 수는 있으나, 이는 불이익으로 인한 것이다.&lt;/p&gt;
