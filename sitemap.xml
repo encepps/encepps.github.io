@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory-summery</loc>
+<lastmod>2016-11-21T14:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>https://encepps.github.io//log/collage/2016/11/21/life-style-design</loc>
 <lastmod>2016-11-21T14:00:00+09:00</lastmod>
 </url>
@@ -132,6 +136,9 @@
 <loc>https://encepps.github.io//archives/tag/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%B0%EA%B5%AC/</loc>
 </url>
 <url>
+<loc>https://encepps.github.io//archives/tag/%EA%B2%BD%ED%9D%AC%EB%8C%80-%EB%8C%80%ED%95%99%EC%9B%90/</loc>
+</url>
+<url>
 <loc>https://encepps.github.io//archives/category/helloworld/</loc>
 </url>
 <url>
@@ -163,6 +170,9 @@
 </url>
 <url>
 <loc>https://encepps.github.io//archives/category/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%B0%EA%B5%AC/</loc>
+</url>
+<url>
+<loc>https://encepps.github.io//archives/category/%EB%B0%9C%EC%A0%9C/</loc>
 </url>
 <url>
 <loc>https://encepps.github.io//archives/2016/</loc>
