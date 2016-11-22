@@ -1,51 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-22T01:47:23+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
-</subtitle><entry><title type="html">Narrative, Games, and Theory - 요약</title><link href="https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory-summery" rel="alternate" type="text/html" title="Narrative, Games, and Theory - 요약" /><published>2016-11-21T14:00:00+09:00</published><updated>2016-11-21T14:00:00+09:00</updated><id>https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory</id><content type="html" xml:base="https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory-summery">&lt;h1 id=&quot;section&quot;&gt;이야기, 게임들, 그리고 이론&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://encepps.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://encepps.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://encepps.github.io//" rel="alternate" type="text/html" /><updated>2016-11-22T17:16:42+09:00</updated><id>https://encepps.github.io///</id><title type="html">Chani</title><subtitle>This is chani page.
+</subtitle><entry><title type="html">시뮬레이션 vs 내러티브</title><link href="https://encepps.github.io//log/2016/11/22/simulation-vs-narrative" rel="alternate" type="text/html" title="시뮬레이션 vs 내러티브" /><published>2016-11-22T13:59:27+09:00</published><updated>2016-11-22T13:59:27+09:00</updated><id>https://encepps.github.io//log/2016/11/22/simulation-vs-narrative</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/22/simulation-vs-narrative">&lt;h1 id=&quot;vs-&quot;&gt;시뮬레이션 VS 내러티브&lt;/h1&gt;
+
+&lt;h2 id=&quot;representation&quot;&gt;재현(Representation)&lt;/h2&gt;
+
+&lt;p&gt;재현과 시뮬레이션의 큰 차이점은 시뮬레이션의 경우는 모델을 갖을 수 있지만, 재현은 프레임만 제공할 뿐 모델을 갖고있지 않는다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;위에 설명한 재현을 중점으로 보는 사람들을 -&amp;gt; Narratologist&lt;/li&gt;
+  &lt;li&gt;시뮬레이션을 중점으로 보는 사람들을 -&amp;gt; Ludologist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;광고에서 사용하는 게임 방식&lt;/h3&gt;
+
+&lt;p&gt;요즘의 모던 광고(SNS 등)들은 게임 이론을 차용하는 경우가 있다.&lt;/p&gt;
+
+&lt;p&gt;예를들자면, 태깅을 통해 브랜드 로고를 찾고 목표를 이루면 보상을 주는 형식으로 광고를 만들기도 한다.&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;한글에서는 ‘게임’이 없다.&lt;/h3&gt;
+
+&lt;p&gt;미국어에서만 게임이 있고 다른 언어권에서도 게임이라는 단어가 없고, 놀이라는 말을 쓴다.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;이름&lt;/th&gt;
+      &lt;th&gt;구분&lt;/th&gt;
+      &lt;th&gt;이름&lt;/th&gt;
+      &lt;th&gt;구분&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Game&lt;/td&gt;
+      &lt;td&gt;루돌로지적&lt;/td&gt;
+      &lt;td&gt;Interaction&lt;/td&gt;
+      &lt;td&gt;행위&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gaming&lt;/td&gt;
+      &lt;td&gt;네러티브적&lt;/td&gt;
+      &lt;td&gt;Ineractivity&lt;/td&gt;
+      &lt;td&gt;행위 수단 등.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><category term="대학원" /><category term="대학" /><category term="강의" /><category term="요약" /><summary type="html">시뮬레이션 VS 내러티브</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://mycours.es/gamedesign2015/files/2012/08/narrativeingames.png" /></entry><entry><title type="html">Narrative, Games, and Theory - 요약</title><link href="https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory-summery" rel="alternate" type="text/html" title="Narrative, Games, and Theory - 요약" /><published>2016-11-21T14:00:00+09:00</published><updated>2016-11-21T14:00:00+09:00</updated><id>https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory</id><content type="html" xml:base="https://encepps.github.io//log/collage/2016/11/21/narrative-games-and-theory-summery">&lt;h1 id=&quot;section&quot;&gt;이야기, 게임들, 그리고 이론&lt;/h1&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;1. 서론&lt;/h2&gt;
 
-&lt;p&gt;이 글은 이야기 학자와 게임 학자간의 논쟁에 대하여 이야기하고, 게임 이론들과 이야기들의 차이점을 찾습니다. 그리고 게임 이론에서 “게임다움”이란 무엇인가에 대하여 논의합니다. 뿐만 아니라 플레어와 캐릭터에 대하여 이야기 합니다.&lt;/p&gt;
+&lt;p&gt;이 글은 이야기 학자와 게임 학자간의 논쟁에 대하여 이야기하고, 게임 이론들과 이야기들의 차이점을 찾는다. 그리고 게임 이론에서 “게임다움”이란 무엇인가에 대하여 논의한다. 뿐만 아니라 플레어와 캐릭터에 대하여 이야기 한다.&lt;/p&gt;
 
 &lt;h2 id=&quot;section-2&quot;&gt;2. 글 분석&lt;/h2&gt;
 
 &lt;h3 id=&quot;what-ball-to-play&quot;&gt;What Ball to Play?&lt;/h3&gt;
 &lt;p&gt;그 공으로 뭘 하려는거야?&lt;/p&gt;
 
-&lt;p&gt;근 20세기의 1/4 동안 서사(네러티브)는 인문학에서 중요 컨셉이였다. 20세기 초만 해도 온 세상은 무대로서 설명이 되었던 반면, 근 20세기 1/4에는 사람들의 인지와 경험으로 설명되어지는 서사적 실타래로 만들어진 &lt;code class=&quot;highlighter-rouge&quot;&gt;텍스트&lt;/code&gt;로 여겨졌다. 로렌드 바르테스(Roland Barthes)가 쓴 글을 보자면, “서사(이야기, 내러티브)는 국제적이고, 역사와 문화를 가로지른다. 서사는 마치 인생이 어디든 존재하듯 단순히 계속 존재해왔다.”라고 썼다. 서사(내러티브)는 일반적으로 인지, 포괄과 설명 그리고 주체와 역사를 구조화 하는데 가장 중요한 도구의 패턴으로서 여겨져 왔다. 인문학에서 “언어적 전환”은 “서사적 전환”이라고도 할 수 있다.&lt;/p&gt;
+&lt;p&gt;근 20세기의 1/4 동안 서사(네러티브)는 인문학에서 중요 컨셉이였다. 20세기 초만 해도 온 세상은 무대로서 설명이 되었던 반면, 근 20세기 1/4에는 사람들의 인지와 경험으로 설명되어지는 서사적 실타래로 만들어진 텍스트로 여겨졌다. 로렌드 바르테스(Roland Barthes)가 쓴 글을 보자면, “서사(이야기, 내러티브)는 국제적이고, 역사와 문화를 가로지른다. 서사는 마치 인생이 어디든 존재하듯 단순히 계속 존재해왔다.”라고 썼다. 서사(내러티브)는 일반적으로 인지, 포괄과 설명 그리고 주체와 역사를 구조화 하는데 가장 중요한 도구의 패턴으로서 여겨져 왔다. 인문학에서 “언어적 전환”은 “서사적 전환”이라고도 할 수 있다.&lt;/p&gt;
 
-&lt;p&gt;인문학에서의 서사(내러티브)가 중요하다는 것은 논란의 여지가 없다. 하이퍼텍스트 이론가들은 상호작용적이고 컴퓨터 기반의 미디어가 미디어의 새로운 질서를 가져올 것이라고 말했다. 그리고 랜도우(Landow, 1994)는 “어떤 텍스트성 미디어가 나오든 새로운 미디어는 기존의 우리가 알던 서사적 미디어와 다를 것이다.”라고 말했다. 요즘의 게임 학자들은 서술이론(Narrative Theory)이 더 이상 &lt;code class=&quot;highlighter-rouge&quot;&gt;뉴미디어&lt;/code&gt;의 형태와 형식을 대처할 수 없다고 주장합니다. 이 학자들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;루돌로지&lt;/code&gt;라는 개념이 담긴 새로운 패러다임이 필요하다는 것을 말하고이 있습니다.&lt;/p&gt;
+&lt;p&gt;인문학에서의 서사(내러티브)가 중요하다는 것은 논란의 여지가 없다. 하이퍼텍스트 이론가들은 상호작용적이고 컴퓨터 기반의 미디어가 미디어의 새로운 질서를 가져올 것이라고 말했다. 그리고 랜도우(Landow, 1994)는 “어떤 텍스트성 미디어가 나오든 새로운 미디어는 기존의 우리가 알던 서사적 미디어와 다를 것이다.”라고 말했다. 요즘의 게임 학자들은 서술이론(Narrative Theory)이 더 이상 뉴미디어의 형태와 형식을 대처할 수 없다고 주장한다. 이 학자들은 루돌로지라는 개념이 담긴 새로운 패러다임이 필요하다는 것을 말하고이 있다.&lt;/p&gt;
 
-&lt;p&gt;그리고 이 학자들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratologist&lt;/code&gt;들을 비판합니다. &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratologist&lt;/code&gt;들은 &lt;strong&gt;제국주의&lt;/strong&gt;적이고 &lt;strong&gt;학술 식민주의&lt;/strong&gt;적이며 &lt;strong&gt;이야기를 숭배&lt;/strong&gt;한다고 합니다. &lt;code class=&quot;highlighter-rouge&quot;&gt;에스켈리넨(Eskelinen, 2004)&lt;/code&gt;은 이렇게 말한다.&lt;/p&gt;
+&lt;p&gt;그리고 이 학자들은 Narratologist들을 비판한다. Narratologist들은 &lt;strong&gt;제국주의&lt;/strong&gt;적이고 &lt;strong&gt;학술 식민주의&lt;/strong&gt;적이며 &lt;strong&gt;이야기를 숭배&lt;/strong&gt;한다고 한다. &lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;에스켈리넨(Eskelinen, 2004)&lt;/code&gt;은 이렇게 말했다 :&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;다행히 다른 보통의 사람들은 서사적 상황과 게임적 상황을 정확하게 구분한다. 내가 장담컨데 내가 당신한테 공을 던진다면 당신은 그걸 받지 이야기가 시작될 때 까지 기다리고 있진 않을 것이다. (공이 던져진거에 반응하지 어떤 사람이 이야기를 말하는 것을 기다리지 않을 것이다.)
 (Eskelinen, 2004)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;만약 이야기를 기다리고 있는 사람이 있다라면, 에스켈리넨은 서사학을 반박할 만한 정확한 점을 제시해야 할것이다. 이야기 학자(Narratologist)는 공을 던지는 행위와 그것에 반응 하는 것에 대하여 설명을 잘 할것입니다. 이야기 학자들의 이런 논란제시들이 루돌로지 학자들에게 시야를 흐리고 논점을 잃어버리게 하는 것 같다. 이들의 주장은 이론적으로 접근하기보다는 이념적으로 동기 부여를 받은 경향이 있다. 그리고 이 문제에 대해서 면밀히 다루지도 않는다.&lt;/p&gt;
+&lt;p&gt;만약 화자가 이야기 하길 기다리고 있는 사람이 있다라면(공을 안 받고), 에스켈리넨은 서사학을 반박할 만한 정확한 점을 제시해야 할것이다. 이야기 학자(Narratologist)는 공을 던지는 행위와 그것에 반응 하는 것에 대하여 설명을 잘 할것이다. 이야기 학자들의 이런 논란 제시들이 루돌로지 학자들에게 시야를 흐리고 논점을 잃어버리게 하는 것 같다. 이들의 주장은 이론적으로 접근하기보다는 이념적으로 동기 부여를 받은 경향이 있다. 그리고 이 문제에 대해서 면밀히 다루지도 않는다.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;프랜스카(Fransca)&lt;/code&gt;의 “루돌로지 학자도 스토리를 사랑한다.”라고 말한 후에 이런 논란은 사라진듯 보였으나 문제가 해결되기보다는 흐지부지 됬으며, 때로는 반 루돌로지 세력들이 논란을 더 키우게 만들었다.&lt;/p&gt;
 
 &lt;h3 id=&quot;external-observers-versus-immersed-players&quot;&gt;External Observers versus Immersed Players&lt;/h3&gt;
 
-&lt;p&gt;루돌로지스트가 정의하는 게임과 이야기의 차이점은
-전자는 “외부 관찰자”(어떤 일이 일어났는지 관찰하는)를 제시하며, 후자는 “어떤 일이 일어날것인가?”에 대해 관심을 갖는 “참여하는 플레이어가”필요하다는 것이다. (&lt;strong&gt;아무래도 전자와 후자가 잘못 적힌듯….오타 같습니다.&lt;/strong&gt;)(Fransca, 2003b).&lt;/p&gt;
+&lt;p&gt;루돌로지스트가 정의하는 게임과 이야기의 차이점은 &lt;em&gt;전자&lt;/em&gt;는 “외부 관찰자”(어떤 일이 일어났는지 관찰하는)를 제시하며, &lt;em&gt;후자&lt;/em&gt;는 “어떤 일이 일어날것인가?”에 대해 관심을 갖는 “참여하는 플레이어가”필요하다는 것이다. (&lt;strong&gt;아무래도 전자와 후자가 잘못 적힌듯….오타 같습니다.&lt;/strong&gt;)(Fransca, 2003b).&lt;/p&gt;
 
-&lt;p&gt;독자 반응에 대하여 연구하는 학자나 영화 이론가들은 독자나 관람자는 영화나 소설에서 서술된 사건들을 현재와 같이 경험하고, 히치콕4 영화를 본 사람이라면 누구나 영화 관객들이 “어떻게 사건이 진행될 것인가”에 대하여 관심을 갖는다고 한다. 프란스카는 카테고리적 구분은 시각에 따라 아주 작으만한 차이밖에 나타나지 않는다고 보았다. 사이버 텍스트 이론가인 &lt;code class=&quot;highlighter-rouge&quot;&gt;매리-로어 라이언&lt;/code&gt;은 다음과 같이 서술한다 :&lt;/p&gt;
+&lt;p&gt;독자 반응에 대하여 연구하는 학자나 영화 이론가들은 독자나 관람자는 영화나 소설에서 서술된 사건들을 현재와 같이 경험하고, 히치콕4 영화를 본 사람이라면 누구나 영화 관객들이 “어떻게 사건이 진행될 것인가”에 대하여 관심을 갖는다고 한다. 프란스카는 카테고리적 구분은 하는 사람의 시각에 따라 아주 조그만한 차이밖에 나타나지 않는다고 보았다.&lt;/p&gt;
 
-&lt;p&gt;우리가 기억에 기반한 서술을 하거나 하면 우리는 그 사건이 어떻게 흘러 갔는가에 대하여 표현하곤 한다. 그리고 결말은 초반에 결정되어진다.(Prefigured) 하지만, 우리가 이야기를 읽을 때는 우리는 결과가 결정되어있는 이야기 속에서 살고 있는 캐릭터의 예측을 받아들일 뿐이다. 삶은 전향적으로, 그리고 소급적으로 이야기 된다. 하지만 이야기는 다시한번 전향적으로 재-재생된다.&lt;code class=&quot;highlighter-rouge&quot;&gt;(Ryan, 2001)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;사이버 텍스트 이론가인 &lt;code class=&quot;highlighter-rouge&quot;&gt;매리-로어 라이언&lt;/code&gt;은 다음과 같이 서술한다 :&lt;/p&gt;
 
-&lt;p&gt;루돌로지 학자들은 독자나 영화 관람자들 또한 이런 이야기가 이미 결정되어 있다는 것을 알고 있다고 반론을 제기할 것이나, 이것 역시 단순한 심리적, 현상학적 문제일 뿐입니다. 등장 인물에 관심을 갖고 관여하는 독자 또는 영화 관람자는 게임과 별 다른 경험을 하는 것이 아닙니다. Patrick O’Neill이 관찰 한 것을 보자면 :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;우리가 기억에 기반한 서술을 하거나 하면 우리는 그 사건이 어떻게 흘러 갔는가에 대하여 표현하곤 한다. 그리고 결말은 초반에 결정되어진다.(Prefigured) 하지만, 우리가 이야기를 읽을 때는 우리는 결과가 결정되어있는 이야기 속에서 살고 있는 캐릭터의 예측을 받아들일 뿐이다. 삶은 전향적으로, 그리고 소급적으로 이야기 된다. 하지만 이야기는 다시한번 전향적으로 재-재생된다.&lt;code class=&quot;highlighter-rouge&quot;&gt;(Ryan, 2001)&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;루돌로지 학자들은 독자나 영화 관람자들 또한 이런 이야기가 이미 결정되어 있다는 것을 알고 있다고 반론을 제기할 것이나, 이것 역시 단순한 심리적, 현상학적 문제일 뿐이다. 등장 인물에 관심을 갖고 관여하는 독자 또는 영화 관람자는 게임과 별 다른 경험을 하는 것이 아닙니다.&lt;/p&gt;
+
+&lt;p&gt;Patrick O’Neill이 관찰 한 후 다음과 같이 말한다 :&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;내구 참여자에게 스토리의 세계는 전적으로 잠정 결정되어 있고 근본적으로 불안정하며(캐릭터, 배우, 등) 완벽히 피할 수 없는 세상으로 들어납니다.(표현됩니다.) 이점을 고려하면, 서사(Narrative)는 게임 구조와 연관되어있다는 것을 주장할 수 있는 근거를 찾을 수 있다고 할 수 있다. 논픽션의 경우조차도 이야기는 게임 구조에 있다고 할 수 있다. 이 두개는 처음부터 밸런스가 맞지 않다.(O’Neill, 1996)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;게다가, 게임 유저 또한 게임이 언젠간 끝난다고 알고 잇다, 어쩔 때는 시간적 제한이 있는 경우도 있다. 이런 경우에 플레이어들은 자신들이 조정하고 있는 PC의 요소들이 있다는 것 조차 잊어버리기도 한다. 지속적 게임인(세상이 끝나지 않고 지속적으로 존재되어지는 온라인, 또한 승자와 패자의 개념도 없는) 에버퀘스트의 경우조차도, 그 세상에서의 많은 행위은 퀘스트와 같이 이미 정해진 완료의 방법(방식)이 있다. 롤플레잉 게임에서 암묵적 목표는 새로운 레벨에 도달하는 것이다. (Klastrup, 2003) 그러므로, 지속적 게임 세상들은(온라인 MMO같은 게임들은) 조그만한 게임들의 내장형이라고 할 수 있다.(Klastrup, 2003, see also Juul, 2003a)&lt;/p&gt;
+&lt;p&gt;게다가, 게임 유저 또한 게임이 언젠간 끝난다고 알고 있다, 어쩔 때는 시간적 제한이 있는 경우도 있다. 이런 경우에 플레이어들은 자신들이 조정하고 있는 PC의 요소들이 있다는 것 조차 잊어버리기도 한다. 지속적 게임인(세상이 끝나지 않고 지속적으로 존재되어지는 온라인, 또한 승자와 패자의 개념도 없는) 에버퀘스트의 경우조차도, 그 세상에서의 많은 행위은 퀘스트와 같이 이미 정해진 완료의 방법(방식)이 있다. 롤플레잉 게임에서 암묵적 목표는 새로운 레벨에 도달하는 것이다. (Klastrup, 2003) 그러므로, 지속적 게임 세상들은(온라인 MMO같은 게임들은) 조그만한 게임들의 내장형이라고 할 수 있다.(Klastrup, 2003, see also Juul, 2003a)2&lt;/p&gt;
 
-&lt;p&gt;또한, 게임 플레이어들은 게임 세상에서 자신의 아바타에게 어떤 안좋은 일이 일어나지 않을 것이라는 것을 알고 있다. 그리고 더욱 중요한 점은 “외부 관찰자”에게 게임 플레이어들은 게임 속 캐릭터처럼 보여지곤한다, 단순히 표시(표현)들의 연속들은 관찰자로 하여금 “플라이드 시뮬레이션(비행기 조정 게임)”이나 영화속 비행기 착륙 장면이 차이가 없게 보인다. 되려 외부 관찰자의 입장에서는 플레이어들의 자유로운 열린 행동 과정들이 게임 디자인에 있는 스크립팅이라고 분병 느껴지게끔 된다. 예를 들어 Micheal Mateas는 다음과 같이 이야기 한다:&lt;/p&gt;
+&lt;p&gt;또한, 게임 플레이어들은 게임 세상에서 자신의 아바타에게 어떤 안좋은 일이 일어나지 않을 것이라는 것을 알고 있다. 그리고 더욱 중요한 점은 “외부 관찰자”에게 게임 플레이어들은 게임 속 캐릭터처럼 보여지곤한다, 단순히 표시(표현)들의 연속들은 관찰자로 하여금 “플라이트 시뮬레이션(비행기 조정 게임)”이나 영화속 비행기 착륙 장면이 차이가 없게 보인다. 되려 외부 관찰자의 입장에서는 플레이어들의 자유로운 열린 행동 과정들이 게임 디자인에 있는 스크립팅이라고 분병 느껴지게끔 된다.&lt;/p&gt;
+
+&lt;p&gt;예를 들어 Micheal Mateas는 다음과 같이 이야기 한다:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;플레이어들이 시스템에서 인터렉션에 관여하고 있는 것을 보면, 관찰자는 플레이어가 상호 작용것에 대하여 이야기를 제어하는 장치가 무엇인가를 찾기(인식하기) 시작합니다. 그로 인해 관찰자는 플레이어가 진정한 선택의 여지가 없다는 결론을 내려버리고, 플레이어는 실제로 중요한 극적 세계에서 어떤 의도도 만들어 낼 수 없다고 결론 내려버릴 것입니다. 하지만 처음에 플레어는 그 세계에서 대리자를 경험할 것입니다. 극적 세계의 디자이너는 플레이어가 진정한 자유의 상호 작용을 경험하는 한 다양성 으로서의 변형은 디자인에서 중요 고려 사항이 아닙니다.&lt;/p&gt;
+  &lt;p&gt;플레이어들이 시스템에서 인터렉션에 관여하고 있는 것을 보면, 관찰자는 플레이어가 상호 작용것에 대하여 이야기를 제어하는 장치가 무엇인가를 찾기(인식하기) 시작합니다. 그로 인해 관찰자는 플레이어가 진정한 선택의 여지가 없다는 결론을 내려 버리고, 플레이어는 실제로 중요한 극적 세계에서 어떤 의도도 만들어 낼 수 없다고 결론 내려버릴 것입니다. 하지만 처음에 플레어는 그 세계에서 대리자를 경험할 것입니다. 극적 세계의 디자이너는 플레이어가 진정한 자유의 상호 작용을 경험하는 한 다양성 으로서의 변형은 디자인에서 중요 고려 사항이 아닙니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -84,7 +137,7 @@
 
 &lt;p&gt;정리하자면, 앞에서 말한 이런 것들은 당신이 어떻게 내러티브와 시뮬레이션을 정의 할것인가에 따라 달려있다. 그렇긴 하나… 종종 학자들은 자신의 창조물에 (게임의 경우) &lt;strong&gt;게임다움&lt;/strong&gt;을 간과하곤 하는 듯 하다. 용어와 정의, 가설, 임시 묘사, 지역 이론, 야생 추측, 가설들은 임시적이기도 하고 지속적으로 변화하는 범주화일 뿐이라는 것을 간과하는 경향이 보인다. 표현(Representation)과 시뮬레이션 간의 차이점에 대한 범주화나 정의들은 인문학이라는 놀이터에서 전략적으로 설정될 수 있다는 좋은 예시라고 볼 수 있다.&lt;/p&gt;
 
-&lt;p&gt;이런 것들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;Narrative&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratology&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Narration&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Representation&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;text&lt;/code&gt; 그리고 &lt;code class=&quot;highlighter-rouge&quot;&gt;discource&lt;/code&gt;등에도 적용 가능하다. 내레이션 학자들은 내러티브란 연대기적으로 연결된 사건들의 순사라는 점에 동의를 하지만, 세부사항에 대하여 채워기 시작하면, 이것에 대한 의견들을 달라지기도 합니다.&lt;/p&gt;
+&lt;p&gt;이런 것들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;Narrative&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratology&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Narration&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Representation&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;text&lt;/code&gt; 그리고 &lt;code class=&quot;highlighter-rouge&quot;&gt;discource&lt;/code&gt;등에도 적용 가능하다. 내레이션 학자들은 내러티브란 연대기적으로 연결된 사건들의 순사라는 점에 동의를 하지만, 세부사항에 대하여 채워기 시작하면, 이것에 대한 의견들을 달라지기도 한다.&lt;/p&gt;
 
 &lt;p&gt;현재 무엇이 서사(내러티브)인가에 대한 일반적인 합의조차 없는 상황이다. 여러 사람들이 서사에 대하여 정의를 다르게 하고 있다.&lt;/p&gt;
 
@@ -104,15 +157,117 @@
 
 &lt;p&gt;아이러니 하게도 게임 학자들은 게임 이론가들 보다 게임다움에 집중하려 한다. 그 이유는 그들은 &lt;strong&gt;“진지한”&lt;/strong&gt;행위 와 분리되길 원하며, 다른 문화적 요소들로 부터 분리되길 원하기 때문이다. 학계에서 사용되는 연구 방법으로 하면 모든 사람들의 경우에 부합하는 일련의 기능들에 대해서 연구해야 하는데 이는 게임 학자들에게 괴로운 작업으로 다가온다.&lt;/p&gt;
 
-&lt;p&gt;게임 이론에서는 선택의 상호관계에 대하여 관심이 있지 의사 결정자의 정의에는 관심이 없다. 그리고 게임 이론가들은 네러티브가 어떻게 게임에서 상호 보완적인 관계가 있는지에 이해를 못한다. 이에 반해, 많은 게임 이론들은 신화, 전설, 이야기, 수수께끼 등에서 차용하는 경우들이 많다.예를 들자면 &lt;code class=&quot;highlighter-rouge&quot;&gt;죄수의 딜레마&lt;/code&gt;가 있다.&lt;/p&gt;
+&lt;p&gt;게임 이론에서는 선택의 상호관계에 대하여 관심이 있지 의사 결정자의 정의에는 관심이 없다. 그리고 게임 이론가들은 네러티브가 어떻게 게임에서 상호 보완적인 관계가 있는지에 이해를 못한다. 이에 반해, 많은 게임 이론들은 신화, 전설, 이야기, 수수께끼 등에서 차용하는 경우들이 많다.예를 들자면 &lt;code class=&quot;highlighter-rouge&quot;&gt;죄수의 딜레마&lt;/code&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;가 있다. 내러티브는 캐릭터에게 난관을 제공하고 선택을 하게끔 한다. 불가능한 도덕적 선택이라던가…라이벌간의 대결이라던가…게임 플레이어나 독자나 영화 관람자는 똑같은 내적 질문을 던질 것이다. “어떻게 해야하지?”, “무슨 선택이 가장좋을까?”, 등.&lt;/p&gt;
+
+&lt;p&gt;역설적으로, 게임 이론가들은 루돌로지 학자들이 그것들을 포기하기 때문에 스토리를 좋아한다.&lt;/p&gt;
+
+&lt;p&gt;루돌로지 학자인 &lt;code class=&quot;highlighter-rouge&quot;&gt;Juul&lt;/code&gt;과 &lt;code class=&quot;highlighter-rouge&quot;&gt;Aarseth&lt;/code&gt;는 플롯은 스토리를 만들고, 규칙은 게임을 만든다고 하며, 그 둘은 결코 만나지 않는다고 한다. 더 나아가, 이들은 게임 아바타가 독자나 관찰자 로서 식별되어지지 않는다고 한다. 무슨 말인지 Aarseth가 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mary-Laure Ryan&lt;/code&gt;의 말을 인용한결 보자면 :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;상호작용하는 대상(독자)은 ‘Emma Bovary’나 ‘Anna Karenina’와의 불륜 사건이 악화 된 결과로 자살한 한 여주인공의 운명에 스스로 복종하길 원한다면 말 그대로 또는 은유적으로 자기 자신의마음에서 벗어나야 한다. 정신적 시뮬레이션에 의존하는 공감을 일인칭으로 바꾸려는 시도는 대다수의 경우 감정을 고통으로 분리시키려고 하는 기본적인 사람들의 심리를 침범할 것이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;찬의 해석 : 음… 어떤 캐릭터를 플레이 하고 어떤 스토리 상의 선택을 하게 하려면 사용자가 그 캐릭터에 녹아들어가(자신의 마음에서 벗어나) 그 행위를 선택해야 하는데 사람이란 기본적으로 고통에서 벗어나려고 하기 때문에 그 선택(자살같은)을 하지 않고 이야기는 성립되지 않는다는 이야기 같습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;플롯과 규칙의 차이점은 단순히 &lt;code class=&quot;highlighter-rouge&quot;&gt;비-스타터&lt;/code&gt;라는 것이다. 이것은 심즈 같은 게임에서 이미 증명되었다.&lt;/p&gt;
+
+&lt;p&gt;게임 이론가들에게 게임 이론에서 규칙이 게임의 필수 부분이 아니라고 가정하지는 않기 때문에 줄거리와 게임의 규칙의 차이점이 중요하게 다뤄진다. 사실, &lt;code class=&quot;highlighter-rouge&quot;&gt;John von Neumann&lt;/code&gt;의 관심은 게임 이론에서 다른 플레이어를 속일 수 있는 거의 무한한 방법을 제공하고, 허세를 부리고 추측하고, 상대방을 사용하는 포커 플레이어의 “통제 불가능” 행동에 의해서 시작했다.(이 사람이 관심을 갖게된 동기인듯) 포커 규칙은 사기 전략에 침묵한다는 특징이 있다. 이런건 나라간 핵무장 경쟁, 죄수 딜레마, 경쟁 시장의 규칙에서도 나타난다. 이런 행동은 축구나 체스같이 같은 규칙에 의해서 결정되지 않지마 그 상황과 플레이어의 선호 스타일에 따라 달라진다.&lt;/p&gt;
+
+&lt;p&gt;게임 이론은 규칙에는 관심이 없으며 왜 그렇게 되는지 추론하는데 흥미를 두고 있다. 규칙은 추론의 일부가 될 수 있긴 하지만 항상 그로부터 추론될 수 없으며 매번 필요한 것은 아니며 거의 필요 없는 경우가 많다. 게임 이론의 경우, 규칙의 역할은 매우 제한적이며 확실히 &lt;strong&gt;“게임적인”&lt;/strong&gt;부분을 다루지 않는다.&lt;/p&gt;
 
 &lt;h3 id=&quot;game-theory-and-narrative&quot;&gt;Game Theory and Narrative&lt;/h3&gt;
 
+&lt;p&gt;언뜻 보기엔 나레이션 학자와 게임 이론가는 역사에 대하여 다른 관점을 취한다. 내러티브를 구성하는 사건의 원인과 연대적 사슬을 재구성하기 위해 이야기의 발전에 필요한 사건과 그 일관성, 이해력을 파괴하지 않으면서 삭제할 수 있는 사건을 구별한다.(선정한다) &lt;code class=&quot;highlighter-rouge&quot;&gt;Roland Barthes&lt;/code&gt;는 전자를 &lt;code class=&quot;highlighter-rouge&quot;&gt;기본함수&lt;/code&gt; 혹은 &lt;code class=&quot;highlighter-rouge&quot;&gt;커널&lt;/code&gt;이라고 명명했다. &lt;code class=&quot;highlighter-rouge&quot;&gt;Seymour Chatman&lt;/code&gt;가 말하길 :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;커널은 이벤트에 의해 취해진 방향으로 핵심을 발생시키는 내러티브 순간입니다. 그것들은 구조에서 노드 또는 경첩이며, 두 개 (또는 그 이상) 가능한 경로 중 하나로 이동하도록하는 분기점입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;이러한 커널 이벤트를 식별하기 위해, 내레이션 학자는 스토리의 결말을 식별 한 다음 역으로 추론하여 이후 이벤트의 발생을 가능하게하기 위해 지금 어떤 이벤트가 발생했는지 확인한다. 내러티브 학자가 이야기를 취하는 것은 회고적이다.&lt;/p&gt;
+
+&lt;p&gt;게임 플레이어의 관버에서 보자면 게이머의 미래가 숨겨저 있기 때문에 보다 미래성(장래성)이 있다고 본다. 그들이 주장하듯, 게임 플레이어는 진행중인 게임의 결과에 영향을 줄 수 있는 기회를 갖고 있다.  그러나 일련의 사건의 시간성을 논리적인 구조와 혼동한다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt; The Prisoner’sDilemma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;-&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;Cooperate&lt;/em&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;Defect&lt;/em&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Cooperate&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;2,2&lt;/td&gt;
+      &lt;td&gt;0,3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Defect&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;3,0&lt;/td&gt;
+      &lt;td&gt;1,1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;위 표는 플레이어가 어떤 선택을 할지 예측하지 않지만 한번만에 게임을 끝낼 수 잇는 모든 상태를 표시하고 있다.&lt;/p&gt;
+
+&lt;p&gt;광범위한 게임에서 각 플레이어에 대한 “역진 귀납법”에 의해서만 구성 될 수 있다. 각 노드들은 플레이어가 어떤 선택을 하는 기점이 되고 견론에 도달하게 되면 역으로 어떤 결정을 했고 어떤 전략을 취했는지 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;이런 도표들은 살재 게임 플레이어들을 표현하는 것은 아니다 단순히 이론적으로 지표를 도출 할 뿐이다. 하지만 플레이어에게 선택을 할 수 있는 기회를 제공하고 플레이어의 전략적 선택이 왜 그렇게 되었는지에 대하여 시뮬레이션 할 수 있다. 최적의 전략을 결정하기 위해서는 게임 이론가는 게임의 모든 가능한 결과를 비교할 수 있어야 하기 때문에 이야기의 내러티브적 모델을 수용한다. bBackward 추론의 방법은 내러티브에선 독특하지 않지만 내러티브아 게임 이론 모두에서 보이는 방법이다.&lt;/p&gt;
+
+&lt;p&gt;둘째로 내러티브 학자들의 회고적 시점과 게임 플레이어들의 미래적 시점에서의 갭은 우리를 혼란하게 만든다. 게임 이론이든 내러티브 이론이든 스토리나 게임에서의 문학적 이론에서의 부분적 시뮬레이션이고 일시적이기 때문이다.&lt;/p&gt;
+
+&lt;p&gt;==아직 작업중!!!!! 작업 해야함!! TODO==&lt;/p&gt;
+
 &lt;h3 id=&quot;players-and-characters&quot;&gt;Players and Characters&lt;/h3&gt;
+
+&lt;p&gt;다른 내러티브와 게임의 차이점을 추론하는 방식은 역활과 캐릭터의 상태에 집중하는 것이다. &lt;code class=&quot;highlighter-rouge&quot;&gt;Aarseth (2004)&lt;/code&gt;에 의하면 :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;우린 이렇게 말할 수 있을 것입니다. 문학과 달리 게임은 다른 이들에 대하여 다루는 것이 아닙니다. 게임은 나 자신에 대하여 다룹니다. 게임은 대인관계에 대하여 집중 하는 것이 아니라 자제력(Self-Mastery)와 외부 세상의 탐험에 집중합니다.(멀티플레이어 게임 빼고)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Aarseth&lt;/code&gt;는 라라 크로프트의 플레이되어지는 것을 시각적으로 설명하고 있다. “내가 처음 플레이 했을 때, 나는 그녀의 몸을 보지도 않는다, 하지만 들여다보고 지나가기도 한다” 그리고 이렇게도 말한다. “폴리곤의 라라 크로프트의 몸의 의미는 게임 플레이를 넘어선다.” 게임에서 캐릭터는 사용자의 목표와 스킬, 경험을 위한 탈것이다. 누군간 이렇게 말할 수 도 있을 것이다. 게임이란 기능적 그리고 감정적 그리고 정신적으로 캐릭터화 되어진 내러티브와 반대가 되는 실재이다.&lt;/p&gt;
+
+&lt;p&gt;이런 분리는 어떤이가 말하는 스토리의 종류에 확연히 달려있다. 그리고 본질적 이야기의 속성들을 보지않고 접근하는 것이다. 비록 대부분의 스토리는 캐릭터 스토리에 의해 발전되어지지만 말이다. 캐릭터의 개념은 정의를 내리기 굉장이 어렵다고 악명이 높다.&lt;/p&gt;
+
+&lt;p&gt;게임 캐릭터와 스토리 캐릭터의 중요한 차이점은 이야기와 게임의 주인공에 관한 것이지 게임의 주변 캐릭터와 영화의 소품에 관한것이 아니라는 것을 학자들이 말하고 있다. 다시 말하자면, 학자들은 캐릭터란 인식되어지는 게임 플레이어와 독자와 이야기의 관중이라고 한다. “Identification”은 아직 논란에 여지가 있다. 하지만 독자나 영화 관람자 또는 게임 플레이어가 이론적으로 캐릭터의 현상학적 경험을 혼동하지 않도록 주의해야 한다는 것도 중요하다. 형식주의적이고 구조 주의적인 내러티브 이론의 경우, 성격은 캐릭터의 심리적 특성, 신체적 특징, 사회적 지위 또는 성별에 의해서가 아니라 Aarseth의 라라 크로프트 처럼 자신이 하는 일과 이야기 속에 자신의 역할에 의해서 정의된다.&lt;/p&gt;
+
+&lt;p&gt;앞에서 말한 이론적, 분석적 관점에서 스토리의 등장 인물(게임에서의 등장인물은)은 단순히 ‘누가’, ‘무엇을’, ‘어떻게’ 행동한다고 말할 수 없지만, 그들이 하는 일(설정)들 때문에 ‘누가’, ‘무엇을’, ‘어떻게’ 존재하는지 이야기 할 수 있다.캐릭터는 심리적, 지적 그리고 육체적인 특징을 부여받음으로서 특정 방식으로 행동하지 않지만(혼자서), 자신의 행동을 있음직하게 받아들일 수 있도록 도움을 줄 수있다. 형식주의자(formalist)와 구조주의자의 관점에서 볼 때, 인물의 심리적 특성은 동기부여의 일부이며ㅡ 동기 부여는 이러한 관점에서 인물의 행동을 설명하는 정당화 수단이 된다.(Genette, 1969, Bordwell, 1985). 구조주의자들과 형식주의자 이론가들에게 있어 캐릭터의 특성이 하는 역할은 게임 캐릭터의 개인적 특성의 기능정도이다. 그림을 그릴 때의 “색”과 유사하다. 이 점에서 내러티브의 관심사와 게임이론의 방법론은 게임 학자들이 주장하는 것 만큼 넓진 않다. 게임 디자이너 블라드미르 프로프(1970)이 러시아의 민담에 대한 연구에서 구조주의와 기호학의 내러티브가 기초가 되고, 조셈 캠벨이 대중적으로 선호하는 ‘기능’에 의존한것은 아무 이유가 없는 것이 아니다.&lt;/p&gt;
+
+&lt;p&gt;서사적 논리는 끊임 없이 재 형식화, 재구성화되어왔다. 그리고 다른 매체에서도 재 사용할 수 있는 특성이 있다. 영화의 이야기는 요즘 비디오 게임, 만화, 책, 텔레비전 시리즈, 테마파크, 광고와 구성을 함께 하며  실제로 구성이 되기도 한다. 이런 의미에서 가제트 같은 느낌이다.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
+&lt;p&gt;누군가 게임 연구자들의 연구를 읽고 연구를 시작한다면, 게임 연구와 내러티브는 제로섬 게임 같다고 생각하면 될 것 같다.(하나를 취하면 하나를 잃는다.) 학문적 놀이터에서(?) 존경받는 선수와 대면한 게임 연구 학자들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;맥시민 전략&lt;/code&gt;을 취하는 것으로 보인다. 현직 내러티브 학자들이 당분간 우위를 차지할것으로 가정되고, 루돌로지 학자들은 자신의 자신의 이론들을 “최대화” 하고 내러티브 학자들을 억제하기 위한 목적으로 방어 전략을 채택한다. 이런 것들은 그만 되어져야 하며, 이 둘을 나누려고만 하고, 연구 분야를 독접하고 전유하려는 목적으로 이론들을 정의하고 개념을 명명하는 듯한 행위들은 아무 쓸모가 없다.&lt;/p&gt;
+
+&lt;p&gt;게임다움에 대한 편안한 편안한(?) 견해가 가능하고 이것은 바람직하다는 것을 증명하기 위해 게임이론이 요구되어왔다. 게임 이론의 경우 게임과 내러티브는 명확히 구분되는 개체가 아니며 게임 이론과 내러티브는 이론적인 면과 방법론적인 면에서 보았을 때 공통점이 많다. 이점은 게임 이론과 내러티브가 동일하거나 동일한 대상을 연구하는 것이라고 말하는 것이 아니다. 게임 학자들은 게임 이론가들로 부터 ‘게임’이나 ‘게임다움’과 같은 것이 없다는 사실을 배울 수 잇지만, 게임은 게임 플레이어 자신의 마음 속에 관찰자적 시각이 들어 있다는 것을 알 수 있다. 반대로 게임 이론가는 게임 연구 학자들로 부터 다음을 배울 수 있었다. 게임 이론은 게임과 같은 문화적 인공물, 게임 세계, 커뮤니티 같은 게임 세계 등과 같은 것들을 다루진 않지만,  내러티브 학자들 과의 논쟁의 주요 이슈가 아니라고 할수 있다.&lt;/p&gt;
+
+&lt;p&gt;대부분의 게임 학자들이 문학 연구와 영화 연구에 배경을 갖고 있기 때문에, 내러티브적 접근이 두드러진 면을 볼 수 있다, 때문에 몇몇 게임 연구 학자들은 게임이 내러티브가 아니라는 것을 보여주려고 부단이 노력한다. 불행하게도 이들은 주로 내러티브 이론 자체로부터파생된 주장을 가지고 그렇게 말하고 있으며, 따라서 부모(내러티브)로부터 묶여있는 격이다. 게임 연구와 문학 이론 및 영화 이론 사이의 긴밀한 연관성을 보여주기 위해 게임 연구에서의 지수들을 문학 연구 및 영화 연구에 대응 하고 잇다.(용어 및 주제 그리고 인물의 유사성 등이 즉시 눈에 뛰는 특징을 보인다.)&lt;/p&gt;
+
+&lt;p&gt;게임 이론가는 논쟁을 죄수 딜레마 또는 다른 버전으로 모델링 할 수 있다. 이 딜레마에서 서로 자백 하는 것이 가장 합리적이지만 게임 이론가들은 또한 서로 침묵하는 것이 가장 좋은 결과를 가져온다는 것을 보여줍니다. 이런 점은 내러티브 이론에도 적용 가능하다 그리고 게임 연구도 마찬가지다. 그리고 게임 연구 학자들이 게임 이론가들과 힘을 합친다면, 내러티브 연구자들 또한 관심있는 스토리에 대하여 말할 수 있게 되지 않을까?&lt;/p&gt;
+
 &lt;h2 id=&quot;section-3&quot;&gt;결론 및 정리&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;이 글에서 말하고 싶은 것은 무엇이지?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;기존의 게임 학자들과 내러티브 학자들 간에 서로 인정하지 않는 부분이 있다. 바로 &lt;code class=&quot;highlighter-rouge&quot;&gt;게임&lt;/code&gt;과 &lt;code class=&quot;highlighter-rouge&quot;&gt;내러티브&lt;/code&gt;는 공존할 수 없다는 점이다. 특히 게임 학자들을 통해 &lt;code class=&quot;highlighter-rouge&quot;&gt;게임&lt;/code&gt;은 내러티브적 성격과 별개로 존재한다고 주장되어 왔으나, 이런 입장을 취하는 것은 올바르지 않다. 게임과 내러티브는 굉장히 밀접히 관계를 맺고 있고 공통점이 매우 많다. 기본적으로 게임요소들은 내터리브적 요소들에서 많이 차용되어 왔다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;공감하는 부분&lt;/h3&gt;
+
+&lt;p&gt;게임 플레이어와 영화 관람자가 갖는 입장은 비슷하다는 면은 생각해 본적이 없는데, 맞는 말인 것 같다. 영화를 보면서도 결말이 정해져 있긴 하지만 관심사는 “어떻게 해결하지?”, “어떻게 되는 거지?” 이다. 게임도 마찬가지다 “어떻게 해야하지?”, “어떤 것을 해야하지?”이다. 분명 참여도는 차이가 있지만 캐릭터의 인지 방식은 비슷하다 못해 똑같은 것 같다.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-6&quot;&gt;게임 속 조정하는 캐릭터&lt;/h4&gt;
+
+&lt;p&gt;게임 속 조정 가능한 캐릭터는 특정 심리적 상황에 쳐했을 때 캐릭터의 특징이 플레이이 하는 플레이어에 의해 내터리브 적으로 정상적으로 작동하지 않을 수도 있겠다라는 생각이 들었다.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -121,6 +276,9 @@
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;머릿속에서 생각으로 진행하는 실험. 실험에 필요한 장치와 조건을 단순하게 가정한 후 이론을 바탕으로 일어날 현상을 예측한다. 실제로 만들 수 없는 장치나 조건을 가지고 실험할 수 있다. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;죄수의 딜레마&lt;/strong&gt;(罪囚-, prisoner’s &lt;strong&gt;dilemma&lt;/strong&gt;, PD)는 게임 이론&lt;strong&gt;의&lt;/strong&gt; 유명한 사례로, 2명이 참가하는 비제로섬 게임 (non zero-sum game)&lt;strong&gt;의&lt;/strong&gt; 일종이다. 이 게임은 용의자&lt;strong&gt;의 딜레마&lt;/strong&gt; 또는 수인&lt;strong&gt;의&lt;/strong&gt; 번민(囚人&lt;strong&gt;의&lt;/strong&gt; 煩悶)이라고도 부른다. &lt;img src=&quot;http://cfile25.uf.tistory.com/image/2027A04B4F1F63D8348981&quot; alt=&quot;이미지&quot; /&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><category term="대학원" /><category term="경희대" /><category term="경희대 대학원" /><summary type="html">이야기, 게임들, 그리고 이론</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://boyd-design.com.au/wordpress/wp-content/uploads/2014/11/lounge-room-icon.png" /></entry><entry><title type="html">라이프스타일에 맞게 진화하는 디자인 (인터렉티브 콘텐츠 연구 강의 요약)</title><link href="https://encepps.github.io//log/collage/2016/11/21/life-style-design" rel="alternate" type="text/html" title="라이프스타일에 맞게 진화하는 디자인 (인터렉티브 콘텐츠 연구 강의 요약)" /><published>2016-11-21T14:00:00+09:00</published><updated>2016-11-21T14:00:00+09:00</updated><id>https://encepps.github.io//log/collage/2016/11/21/life-style-design</id><content type="html" xml:base="https://encepps.github.io//log/collage/2016/11/21/life-style-design">&lt;h1 id=&quot;section&quot;&gt;라이프스타일에 맞게 진화하는 디자인&lt;/h1&gt;
@@ -294,52 +452,7 @@
 
 &lt;h2 id=&quot;academic-research&quot;&gt;Academic Research&lt;/h2&gt;
 
-&lt;h2 id=&quot;recognition-of-serious-game&quot;&gt;Recognition of Serious game&lt;/h2&gt;</content><category term="대학원" /><category term="강의" /><category term="요약" /><category term="디지털디자인스튜디오" /><summary type="html">Serious games</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://boyd-design.com.au/wordpress/wp-content/uploads/2014/11/lounge-room-icon.png" /></entry><entry><title type="html">Narrative Games And Theory</title><link href="https://encepps.github.io//2016/11/19/narrative-games-and-theory.html" rel="alternate" type="text/html" title="Narrative Games And Theory" /><published>2016-11-19T00:00:00+09:00</published><updated>2016-11-19T00:00:00+09:00</updated><id>https://encepps.github.io//2016/11/19/narrative-games-and-theory</id><content type="html" xml:base="https://encepps.github.io//2016/11/19/narrative-games-and-theory.html">&lt;h1 id=&quot;section&quot;&gt;이야기, 게임들, 그리고 이론&lt;/h1&gt;
-
-&lt;p&gt;이 글은 이야기 학자와 게임 학자간의 논쟁에 대하여 이야기하고, 게임 이론들과 이야기들의 차이점을 찾습니다. 그리고 게임 이론에서 “게임다움”이란 무엇인가에 대하여 논의합니다. 뿐만 아니라 플레어와 캐릭터에 대하여 이야기 합니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-ball-to-play&quot;&gt;What Ball to Play?&lt;/h2&gt;
-&lt;p&gt;어떤 공으로 노는 거야? (어떤 내용을 다루는 것인가? 무슨 일이 일어나는 것인가?!, 번역이 어렵네요 아마 이런 내용 같은데…)&lt;/p&gt;
-
-&lt;p&gt;근 20세기의 1/4 동안 서사(네러티브)는 인문학에서 중요 컨셉이였다. 20세기 초만 해도 온 세상은 무대로서 설명이 되었던 반면, 근 20세기 1/4에는 사람들의 인지와 경험으로 설명되어지는 서사적 실타래로 만들어진 &lt;code class=&quot;highlighter-rouge&quot;&gt;텍스트&lt;/code&gt;로 여겨졌다. 로렌드 바르테스(Roland Barthes)가 쓴 글을 보자면, “서사(이야기, 내러티브)는 국제적이고, 역사와 문화를 가로지른다. 서사는 마치 인생이 어디든 존재하듯 단순히 계속 존재해왔다.”라고 썼다. 서사(내러티브)는 일반적으로 인지, 포괄과 설명 그리고 주체와 역사를 구조화 하는데 가장 중요한 도구의 패턴으로서 여겨져 왔다. 인문학에서 “언어적 전환”은 “서사적 전환”이라고도 할 수 있다.&lt;/p&gt;
-
-&lt;p&gt;인문학에서의 서사(내러티브)가 중요하다는 것은 논란의 여지가 없다. 하이퍼텍스트 이론가들은 상호작용적이고 컴퓨터 기반의 미디어가 미디어의 새로운 질서를 가져올 것이라고 말했다. 그리고 랜도우(Landow, 1994)는 “어떤 텍스트성 미디어가 나오든 새로운 미디어는 기존의 우리가 알던 서사적 미디어와 다를 것이다.”라고 말했다. 요즘의 게임 학자들은 서술이론(Narrative Theory)이 더 이상 &lt;code class=&quot;highlighter-rouge&quot;&gt;뉴미디어&lt;/code&gt;의 형태와 형식을 대처할 수 없다고 주장합니다. 이 학자들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;루돌로지&lt;/code&gt;라는 개념이 담긴 새로운 패러다임이 필요하다는 것을 말하고이 있다.&lt;/p&gt;
-
-&lt;p&gt;그리고 이 학자들은 &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratologist&lt;/code&gt;들을 비판한다. &lt;code class=&quot;highlighter-rouge&quot;&gt;Narratologist&lt;/code&gt;들은 &lt;strong&gt;제국주의&lt;/strong&gt;적이고 &lt;strong&gt;학술 식민주의&lt;/strong&gt;적이며 &lt;strong&gt;이야기를 숭배&lt;/strong&gt;한다고 합니다. &lt;code class=&quot;highlighter-rouge&quot;&gt;에스켈리넨(Eskelinen, 2004)&lt;/code&gt;은 이렇게 말한다.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;다행히 다른 보통의 사람들은 서사적 상황과 게임적 상황을 정확하게 구분한다. 내가 장담컨데 내가 당신한테 공을 던진다면 당신은 그걸 받지 이야기가 시작될 때 까지 기다리고 있진 않을 것이다. (공이 던져진거에 반응하지 어떤 사람이 이야기를 말하는 것을 기다리지 않을 것이다.)
-(Eskelinen, 2004)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;만약 이야기를 기다리고 있는 사람이 있다라면, 에스켈리넨은 서사학을 반박할 만한 정확한 점을 제시해야 할것이다. 이야기 학자(Narratologist)는 공을 던지는 행위와 그것에 반응 하는 것에 대하여 설명을 잘 할것이다. 이야기 학자들의 이런 논란제시들이 루돌로지 학자들에게 시야를 흐리고 논점을 잃어버리게 하는 것 같다. 이들의 주장은 이론적으로 접근하기보다는 이념적으로 동기 부여를 받은 경향이 있다. 그리고 이 문제에 대해서 면밀히 다루지도 않는다.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;프랜스카(Fransca)&lt;/code&gt;의 “루돌로지 학자도 스토리를 사랑한다.”라고 말한 후에 이런 논란은 사라진듯 보였으나 문제가 해결되기보다는 흐지부지 됬으며, 때로는 반 루돌로지 세력들이 논란을 더 키우게 만들었다.&lt;/p&gt;
-
-&lt;h2 id=&quot;external-observers-versus-immersed-players&quot;&gt;External Observers versus Immersed Players&lt;/h2&gt;
-
-&lt;p&gt;루돌로지스트가 정의하는 게임과 이야기의 차이점은
-전자는 “외부 관찰자”(어떤 일이 일어났는지 관찰하는)를 제시하며, 후자는 “어떤 일이 일어날것인가?”에 대해 관심을 갖는 “참여하는 플레이어가”필요하다는 것이다. (&lt;strong&gt;아무래도 전자와 후자가 잘못 적힌듯….오타 같다.&lt;/strong&gt;)(Fransca, 2003b).&lt;/p&gt;
-
-&lt;p&gt;독자 반응에 대하여 연구하는 학자나 영화 이론가들은 독자나 관람자는 영화나 소설에서 서술된 사건들을 현재와 같이 경험하고, 히치콕4 영화를 본 사람이라면 누구나 영화 관객들이 “어떻게 사건이 진행될 것인가”에 대하여 관심을 갖는다고 한다. 프란스카는 카테고리적 구분은 시각에 따라 아주 작으만한 차이밖에 나타나지 않는다고 보았다. 사이버 텍스트 이론가인 &lt;code class=&quot;highlighter-rouge&quot;&gt;매리-로어 라이언&lt;/code&gt;은 다음과 같이 서술한다 :&lt;/p&gt;
-
-&lt;p&gt;우리가 기억에 기반한 서술을 하거나 하면 우리는 그 사건이 어떻게 흘러 갔는가에 대하여 표현하곤 한다. 그리고 결말은 초반에 결정되어진다.(Prefigured) 하지만, 우리가 이야기를 읽을 때는 우리는 결과가 결정되어있는 이야기 속에서 살고 있는 캐릭터의 예측을 받아들일 뿐이다. 삶은 전향적으로, 그리고 소급적으로 이야기 된다. 하지만 이야기는 다시한번 전향적으로 재-재생된다.&lt;code class=&quot;highlighter-rouge&quot;&gt;(Ryan, 2001)&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;루돌로지 학자들은 독자나 영화 관람자들 또한 이런 이야기가 이미 결정되어 있다는 것을 알고 있다고 반론을 제기할 것이나, 이것 역시 단순한 심리적, 현상학적 문제일 뿐이다. 등장 인물에 관심을 갖고 관여하는 독자 또는 영화 관람자는 게임과 별 다른 경험을 하는 것이 아니다. Patrick O’Neill이 관찰 한 것을 보자면 :&lt;/p&gt;
-
-&lt;p&gt;내구 참여자에게 스토리의 세계는 전적으로 잠정 결정되어 있고 근본적으로 불안정하며(캐릭터, 배우, 등) 완벽히 피할 수 없는 세상으로 들어난다.(표현한다.) 이점을 고려하면, 서사(Narrative)는 게임 구조와 연관되어있다는 것을 주장할 수 있는 근거를 찾을 수 있다고 할 수 있다. 논픽션의 경우조차도 이야기는 게임 구조에 있다고 할 수 있다. 이 두개는 처음부터 밸런스가 맞지 않다.(O’Neill, 1996)&lt;/p&gt;
-
-&lt;p&gt;게다가, 게임 유저 또한 게임이 언젠간 끝난다고 알고 잇다, 어쩔 때는 시간적 제한이 있는 경우도 있다. 이런 경우에 플레이어들은 자신들이 조정하고 있는 PC의 요소들이 있다는 것 조차 잊어버리기도 한다. 지속적 게임인(세상이 끝나지 않고 지속적으로 존재되어지는 온라인, 또한 승자와 패자의 개념도 없는) 에버퀘스트의 경우조차도, 그 세상에서의 많은 행위은 퀘스트와 같이 이미 정해진 완료의 방법(방식)이 있다. 롤플레잉 게임에서 암묵적 목표는 새로운 레벨에 도달하는 것이다. (Klastrup, 2003) 그러므로, 지속적 게임 세상들은(온라인 MMO같은 게임들은) 조그만한 게임들의 내장형이라고 할 수 있겠다.(Klastrup, 2003, see also Juul, 2003a)&lt;/p&gt;
-
-&lt;p&gt;또한,&lt;/p&gt;
-
-&lt;h2 id=&quot;gamenesss-and-game-theory&quot;&gt;“Gamenesss” and Game Theory&lt;/h2&gt;
-
-&lt;h2 id=&quot;game-theory-and-narrative&quot;&gt;Game Theory and Narrative&lt;/h2&gt;
-
-&lt;h2 id=&quot;players-and-characters&quot;&gt;Players and Characters&lt;/h2&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;</content><summary type="html">이야기, 게임들, 그리고 이론</summary></entry><entry><title type="html">“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.</title><link href="https://encepps.github.io//log/2016/11/13/health-game-design" rel="alternate" type="text/html" title="&quot;불이익을 통한 게임 몰입 증대 효과를 연구&quot;를 위한 게임 디자인." /><published>2016-11-14T02:15:23+09:00</published><updated>2016-11-14T02:15:23+09:00</updated><id>https://encepps.github.io//log/2016/11/13/health-game-design</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/13/health-game-design">&lt;h1 id=&quot;section&quot;&gt;“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.&lt;/h1&gt;
+&lt;h2 id=&quot;recognition-of-serious-game&quot;&gt;Recognition of Serious game&lt;/h2&gt;</content><category term="대학원" /><category term="강의" /><category term="요약" /><category term="디지털디자인스튜디오" /><summary type="html">Serious games</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://boyd-design.com.au/wordpress/wp-content/uploads/2014/11/lounge-room-icon.png" /></entry><entry><title type="html">“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.</title><link href="https://encepps.github.io//log/2016/11/13/health-game-design" rel="alternate" type="text/html" title="&quot;불이익을 통한 게임 몰입 증대 효과를 연구&quot;를 위한 게임 디자인." /><published>2016-11-14T02:15:23+09:00</published><updated>2016-11-14T02:15:23+09:00</updated><id>https://encepps.github.io//log/2016/11/13/health-game-design</id><content type="html" xml:base="https://encepps.github.io//log/2016/11/13/health-game-design">&lt;h1 id=&quot;section&quot;&gt;“불이익을 통한 게임 몰입 증대 효과를 연구”를 위한 게임 디자인.&lt;/h1&gt;
 
 &lt;h1 id=&quot;section-1&quot;&gt;1. 환자 설정&lt;/h1&gt;
 
